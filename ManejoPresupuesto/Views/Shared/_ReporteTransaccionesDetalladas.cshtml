@@ -40,9 +40,7 @@
  @if (Model.TransaccionesAgrupadas.Count() == 0)
 {
     <h5>no hay datos para mostras</h5>
-}
-else
-{
+}else{
    <table class="table">
        <tbody>
            @foreach (var transaccionAgrupada in Model.TransaccionesAgrupadas)
