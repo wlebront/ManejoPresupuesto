@@ -21,7 +21,7 @@
         <div>
             <strong>Retiros</strong>
         </div>
-        <div  class="Pasivo">
+        <div class="pasivo">
             @Model.BalanceRetiros.ToString("N")
         </div>
     </div>
@@ -29,7 +29,7 @@
         <div>
             <strong>Total</strong>
         </div>
-        <div class="activo">
+        <div>
            @Model.Total.ToString("N")
         </div>
     </div>
@@ -39,10 +39,12 @@
  @if (Model.TransaccionesAgrupadas.Count() == 0)
 {
     <h5>no hay datos para mostras</h5>
-}else{
-   <table class="table">
-       <tbody>
-           @foreach (var transaccionAgrupada in Model.TransaccionesAgrupadas)
+}
+else
+{
+  <table class="table">
+        <tbody>
+            @foreach (var transaccionAgrupada in Model.TransaccionesAgrupadas)
             {
                 <tr style="background-color: lightblue; font-size: 26px">
                     <td colspan="3">
@@ -58,20 +60,20 @@
                 {
                     <tr style="vertical-align: middle">
                         <td>
-                            <a asp-controller="transacciones" asp-action="Editar"
-                            asp-route-id="@transaccion.Id" asp-route-urlRetorno="@ViewBag.urlRetorno">
-                            <i class="bi-pencil"></i>
-                        </a>
+                            <a asp-controller="transacciones" asp-action="Editar" 
+                            asp-route-id="@transaccion.Id" asp-route-urlRetorno="@ViewBag.urlRetorno" >
+                                <i class="bi-pencil"></i>
+                            </a>
                         </td>
                         <td>@transaccion.Categoria</td>
                         <td>@transaccion.Cuenta</td>
-                        <td class="activo">@(transaccion.TipoOperacionId == TipoOperacion.Ingreso
+                        <td class="activo">@(transaccion.TipoOperacionId == TipoOperacion.Ingreso 
                             ? transaccion.Monto.ToString("N") : null)</td>
-                        <td class="pasivo">@(transaccion.TipoOperacionId == TipoOperacion.Gasto
+                        <td class="pasivo">@(transaccion.TipoOperacionId == TipoOperacion.Gasto 
                             ? transaccion.Monto.ToString("N") : null)</td>
                     </tr>
                 }
             }
         </tbody>
-   </table> 
+    </table>
 }

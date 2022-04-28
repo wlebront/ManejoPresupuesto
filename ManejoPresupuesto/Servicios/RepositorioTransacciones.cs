@@ -57,7 +57,7 @@ namespace ManejoPresupuesto.Servicios
                     ON c.Id = t.CategoriaId
                     INNER JOIN Cuentas cu
                     ON cu.Id = t.CuentaId
-                    WHERE t.UsuarioId = @CuentaId AND t.UsuarioId = @UsuarioId
+                    WHERE t.CuentaId = @CuentaId AND t.UsuarioId = @UsuarioId
                     AND FechaTransaccion BETWEEN @FechaInicio AND @FechaFin", modelo);
 
         }
@@ -76,7 +76,7 @@ namespace ManejoPresupuesto.Servicios
                     ON c.Id = t.CategoriaId
                     INNER JOIN Cuentas cu
                     ON cu.Id = t.CuentaId
-                    WHERE t.CuentaId = @UsuarioId
+                    WHERE t.UsuarioId = @UsuarioId
                     AND FechaTransaccion BETWEEN @FechaInicio AND @FechaFin 
                     ORDER BY t.FechaTransaccion DESC", modelo);
 
