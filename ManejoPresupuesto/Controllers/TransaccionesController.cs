@@ -94,7 +94,7 @@ namespace ManejoPresupuesto.Controllers
             modelo.TransaccionesPorSemana = agrupado;
             modelo.FechaReferencia = fechaReferencia;
 
-            return View();
+            return View(modelo);
         }
 
         public IActionResult Mensual()
