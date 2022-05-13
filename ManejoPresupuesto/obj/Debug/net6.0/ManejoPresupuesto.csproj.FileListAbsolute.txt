@@ -60,3 +60,7 @@ C:\Users\HP\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\Ma
 C:\Users\HP\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
 C:\Users\HP\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\HP\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\HP\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\HP\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\HP\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.IO.Packaging.dll
