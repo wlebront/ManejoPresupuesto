@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fzjoB+a2zK2rWULKcV1OICSwbI8z857nB86uRMlh7Pk=",
+  "Hash": "62+bwfFyVmcTWgR0Zc/JMxPafHWAbUYzML331zTTXKs=",
   "Source": "ManejoPresupuesto",
   "BasePath": "_content/ManejoPresupuesto",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\win-x64\\scopedcss\\bundle\\ManejoPresupuesto.styles.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\scopedcss\\bundle\\ManejoPresupuesto.styles.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\win-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ManejoPresupuesto",
       "RelativePath": "ManejoPresupuesto.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\win-x64\\scopedcss\\bundle\\ManejoPresupuesto.styles.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\scopedcss\\bundle\\ManejoPresupuesto.styles.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\win-x64\\scopedcss\\projectbundle\\ManejoPresupuesto.bundle.scp.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ManejoPresupuesto.bundle.scp.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\win-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ManejoPresupuesto",
       "RelativePath": "ManejoPresupuesto.bundle.scp.css",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\win-x64\\scopedcss\\projectbundle\\ManejoPresupuesto.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ManejoPresupuesto.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\custom.css",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\Logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\Imagenes\\Logo1.png",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "Imagenes/Logo1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Logo1.png"
     },
     {
       "Identity": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\FormularioTransacciones.js",

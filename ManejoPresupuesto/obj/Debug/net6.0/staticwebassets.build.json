@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wqz1WC9eyHTcPmxI7RqCF5nehEYO7dMZyX3AUbPkpFM=",
+  "Hash": "q7kuwzk9aPJ6ErfPM1OjOwRDSb8gXSZxmuUC3JBTtjc=",
   "Source": "ManejoPresupuesto",
   "BasePath": "_content/ManejoPresupuesto",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\Logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\Imagenes\\Logo1.png",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "Imagenes/Logo1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Logo1.png"
     },
     {
       "Identity": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\FormularioTransacciones.js",
