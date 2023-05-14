@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {}
+    "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {
+    "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+        "projectUniqueName": "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
         "projectName": "ManejoPresupuesto",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
+        "projectPath": "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+        "packagesPath": "C:\\Users\\William Lebron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\William Lebron\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
