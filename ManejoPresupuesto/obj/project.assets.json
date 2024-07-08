@@ -6397,11 +6397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+      "projectUniqueName": "C:\\Users\\William Lebron\\source\\repos\\wlebront\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
       "projectName": "ManejoPresupuesto",
-      "projectPath": "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+      "projectPath": "C:\\Users\\William Lebron\\source\\repos\\wlebront\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
       "packagesPath": "C:\\Users\\William Lebron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
+      "outputPath": "C:\\Users\\William Lebron\\source\\repos\\wlebront\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\William Lebron\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6469,21 +6469,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU3037",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' from source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\': The repository primary signature validity period has expired.",
-      "libraryId": "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl"
-    },
-    {
-      "code": "NU3037",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' from source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\': The repository primary signature validity period has expired.",
-      "libraryId": "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl"
-    }
-  ]
+  }
 }

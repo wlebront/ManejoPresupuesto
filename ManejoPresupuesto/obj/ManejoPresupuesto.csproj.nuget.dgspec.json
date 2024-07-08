@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {}
+    "C:\\Users\\William Lebron\\source\\repos\\wlebront\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {
+    "C:\\Users\\William Lebron\\source\\repos\\wlebront\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+        "projectUniqueName": "C:\\Users\\William Lebron\\source\\repos\\wlebront\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
         "projectName": "ManejoPresupuesto",
-        "projectPath": "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+        "projectPath": "C:\\Users\\William Lebron\\source\\repos\\wlebront\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
         "packagesPath": "C:\\Users\\William Lebron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
+        "outputPath": "C:\\Users\\William Lebron\\source\\repos\\wlebront\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\William Lebron\\AppData\\Roaming\\NuGet\\NuGet.Config",

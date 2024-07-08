@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yGxhAkfrq8fY4TuBpwdD1q47f6FcUXAottL7FVCChbsAKJEMrMBPGaByuBG4pzmRivGR9+WvD+kBOauFdn4RgQ==",
+  "dgSpecHash": "jODzfkye2IEcnq35HNFUvLz23gyasyFktawjq1bcSOhs6hF1mU0ggX5ApsZi67k9JdIR+UubywOSdiLpXGZSrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\William Lebron\\Source\\Repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+  "projectFilePath": "C:\\Users\\William Lebron\\source\\repos\\wlebront\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\William Lebron\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\William Lebron\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
@@ -118,20 +118,5 @@
     "C:\\Users\\William Lebron\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\William Lebron\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU3037",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' from source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\': The repository primary signature validity period has expired.",
-      "libraryId": "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl"
-    },
-    {
-      "code": "NU3037",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' from source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\': The repository primary signature validity period has expired.",
-      "libraryId": "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl"
-    }
-  ]
+  "logs": []
 }
